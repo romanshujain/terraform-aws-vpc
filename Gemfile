@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+#cool
 
 ruby '2.4.2'
 
